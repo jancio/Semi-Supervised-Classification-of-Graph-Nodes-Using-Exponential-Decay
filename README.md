@@ -1,4 +1,4 @@
-# Semi-supervised classification of graph nodes using exponential decay
+# Semi-Supervised Classification of Graph Nodes Using Exponential Decay
 
 In this project I propose a new approach (MLPλ) to incorporate relationships between graph nodes
 in a semi-supervised classification problem, using the multilayer perceptron model. In particular,
@@ -11,3 +11,5 @@ compared to the baseline multilayer perceptron (when training examples were trea
 and other previous studies. The results show that my approach reaches the performance of most
 earlier methods, however, it falls behind the recent success of Graph Convolutional Networks (GCNs)
 or Graph Attention Networks (GATs).
+
+- Report [[PDF]](https://github.com/jancio/Semi-Supervised-Classification-of-Graph-Nodes-Using-Exponential-Decay/blob/master/Report_ExpDecayGraphNodesClassification.pdf)
